@@ -1,4 +1,4 @@
-namespace HackerRankChallenges.Challenges
+namespace HackerRankChallenges.Challenges.Easy
 {
     public class SubarrayDivision
     {

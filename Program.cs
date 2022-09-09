@@ -1,4 +1,5 @@
-﻿using HackerRankChallenges.Challenges;
+﻿using HackerRankChallenges.Challenges.Easy;
+using HackerRankChallenges.Challenges.Medium;
 
 Console.WriteLine("Hacker Rank, Challenges!");
 
@@ -7,5 +8,6 @@ Console.WriteLine("Hacker Rank, Challenges!");
 // ElectronicsShop electronicsShop = new();
 // MigratoryBirds migratoryBirds = new();
 // SubarrayDivision subarrayDivision = new();
+// CatsAndMouse catsAndMouse = new();
 
-CatsAndMouse catsAndMouse=new();
+// MagicSquare magicSquare = new();
