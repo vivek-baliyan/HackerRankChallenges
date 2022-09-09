@@ -9,5 +9,6 @@ Console.WriteLine("Hacker Rank, Challenges!");
 // MigratoryBirds migratoryBirds = new();
 // SubarrayDivision subarrayDivision = new();
 // CatsAndMouse catsAndMouse = new();
+PickingNumbers pickingNumbers = new();
 
 // MagicSquare magicSquare = new();
